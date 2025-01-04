@@ -76,7 +76,9 @@ Burushaski_to_Chatbot/
 
 ## Contributors
 - **Wasim Ali** ([GitHub](https://github.com/Wasim-Aly))
-- Other team members
+- **Rohail Rahmat** ([GitHub](https://github.com/rohailrahmat))
+- **Hasnain Khushi** ([GitHub](https://github.com/hasnain23233))
+- **Saliha Nishad** ([GitHub](https://github.com/Saliha-Nishat))
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
